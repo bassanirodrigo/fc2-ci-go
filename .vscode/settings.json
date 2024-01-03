@@ -1,5 +1,6 @@
 {
     "conventionalCommits.scopes": [
-        "Alterado a classe de test"
+        "Alterado a classe de test",
+        "criado o githubactions"
     ]
 }
